@@ -1,0 +1,20 @@
+{
+  "name": "cors-proxy",
+  "version": "0.0.1",
+  "description": "A simple CORS proxy.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedfong/cors-proxy"
+  },
+  "keywords": [
+    "cors",
+    "proxy"
+  ],
+  "author": "Jed Fong <jed@yepreally.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "request": "^2.55.0",
+    "yargs": "^4.1.0"
+  }
+}

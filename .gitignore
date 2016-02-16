@@ -1,0 +1,19 @@
+## environment
+.DS_Store
+Desktop.ini
+.idea
+*.iml
+atlassian-ide-plugin.xml
+.node-version
+
+## vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+## npm
+node_modules
+npm-debug.log
